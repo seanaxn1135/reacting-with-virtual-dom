@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Firstpage() {
+export default function ProductList() {
   return (
     <div>
-      <h1>First page</h1>
+      <h1>Second Post</h1>
     </div>
   );
 }
